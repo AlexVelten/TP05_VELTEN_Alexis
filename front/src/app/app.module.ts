@@ -25,7 +25,7 @@ import { ProductsDetailComponent } from './products-detail/products-detail.compo
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    HomeComponent
+    HomeComponent,
   ],
   imports: [
     BrowserModule,
